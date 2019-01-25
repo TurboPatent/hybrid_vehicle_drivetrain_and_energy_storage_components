@@ -1,0 +1,282 @@
+{
+  "name": "hybrid_vehicle_drivetrain_and_energy_storage_components",
+  "description": "typical plug-in hybrid-electric vehicle (PHEV)",
+  "owner": {
+    "login": "TurboPatent",
+    "type": "organization"
+  },
+  "license": "MIT",
+  "private": false,
+  "details": {
+    "counts": {
+      "termCount": 162,
+      "claimCount": 1,
+      "independentCount": 1,
+      "drawingCount": 1,
+      "glossaryCount": 0
+    },
+    "briefDescriptions": [
+      "<p><span data-role=\"tag\" data-value=\"1b1f2cb1-9a38-4107-07d0-db6d8206248e\" id=\"idaeab7443-cc09-34a3-c411-9440f917e542\" data-type=\"figure\">Figure 1</span>&nbsp;is a diagram of a hybrid <span data-role=\"tag\" data-value=\"35b46fe7-fcd2-3818-eb47-768ce94b9e6f\" id=\"id4fa5914b-9519-cb73-260b-23e04a4d8b80\" data-type=\"term\">vehicle</span> illustrating typical drivetrain and <span data-role=\"tag\" data-value=\"375ce224-f958-5855-8973-6d0a733d2ca4\" id=\"idd86d5ef8-abc9-2f4d-5453-f62972849fcf\" data-type=\"term\">energy</span> storage components.&nbsp;</p>"
+    ],
+    "parts": [
+      {
+        "name": "item",
+        "number": 100
+      },
+      {
+        "name": "external power source",
+        "number": 102
+      },
+      {
+        "name": "EVSE controller",
+        "number": 104
+      },
+      {
+        "name": "electric vehicle supply equipment",
+        "number": 106
+      },
+      {
+        "name": "wireless vehicle charging system",
+        "number": 108
+      },
+      {
+        "name": "transmit coil",
+        "number": 110
+      },
+      {
+        "name": "receive coil",
+        "number": 112
+      },
+      {
+        "name": "system controller",
+        "number": 114
+      },
+      {
+        "name": "hybrid-electric vehicle",
+        "number": 116
+      },
+      {
+        "name": "brake system",
+        "number": 118
+      },
+      {
+        "name": "tire(s)",
+        "number": 120
+      },
+      {
+        "name": "engine",
+        "number": 122
+      },
+      {
+        "name": "hybrid transmission",
+        "number": 124
+      },
+      {
+        "name": "wheel brakes",
+        "number": 126
+      },
+      {
+        "name": "electric machines",
+        "number": 128
+      },
+      {
+        "name": "auxiliary battery",
+        "number": 130
+      },
+      {
+        "name": "DC/DC converter module",
+        "number": 132
+      },
+      {
+        "name": "power electronics module",
+        "number": 134
+      },
+      {
+        "name": "power conversion module",
+        "number": 136
+      },
+      {
+        "name": "traction battery",
+        "number": 138
+      },
+      {
+        "name": "drive shaft",
+        "number": 140
+      },
+      {
+        "name": "contactors",
+        "number": 142
+      },
+      {
+        "name": "electrical loads",
+        "number": 144
+      }
+    ],
+    "terms": [
+      "electric vehicle supply equipment",
+      "three-phase AC",
+      "addition",
+      "advantages",
+      "further advantage",
+      "parking aids",
+      "area",
+      "parking area",
+      "raised area",
+      "minimal attention",
+      "battery",
+      "auxiliary battery",
+      "traction battery",
+      "typical traction battery",
+      "fuel economy benefits",
+      "gear box",
+      "wheel brakes",
+      "other wheel brakes",
+      "high-voltage bus",
+      "routing cables",
+      "propulsion and deceleration capability",
+      "charger",
+      "coil",
+      "receive coil",
+      "transmit coil",
+      "transmit coils",
+      "appropriate transmit coil",
+      "selected transmit coil",
+      "align the selected transmit coil",
+      "combination",
+      "commands",
+      "brake components",
+      "other components",
+      "certain conditions",
+      "diagnostic condition",
+      "connection",
+      "single connection",
+      "circuitry and controls",
+      "stability control",
+      "EVSE controller",
+      "associated controller",
+      "three-phase AC current",
+      "vehicle deceleration",
+      "delivery",
+      "direction",
+      "given direction",
+      "display",
+      "minimum emissions",
+      "vehicle emissions",
+      "energy",
+      "stores energy",
+      "engine",
+      "example",
+      "examples",
+      "features",
+      "visual feedback",
+      "figure",
+      "requested brake force",
+      "generator",
+      "generators",
+      "heat",
+      "compressors and electric heaters",
+      "description herein",
+      "high-voltage",
+      "inhibits",
+      "user interface",
+      "minimal operator intervention",
+      "current levels",
+      "center line",
+      "electrical loads",
+      "other high-voltage loads",
+      "other vehicle loads",
+      "location",
+      "electric machines",
+      "normal manner",
+      "vehicle locating mechanism",
+      "transport mechanism",
+      "transmit coil transport mechanism",
+      "method",
+      "electric mode",
+      "regenerative mode",
+      "air-conditioning module",
+      "power conversion module",
+      "on-board power conversion module",
+      "DC/DC converter module",
+      "power electronics module",
+      "heating module",
+      "motion",
+      "motor",
+      "movement",
+      "need",
+      "operator",
+      "vehicle operator",
+      "generally parallel orientation",
+      "electrical outlet",
+      "high voltage DC output",
+      "battery pack",
+      "vehicle battery pack",
+      "tire pads",
+      "tire pad",
+      "pressure sensitive tire pads",
+      "pair",
+      "precise parking",
+      "part",
+      "PHEV",
+      "separate piece",
+      "plurality",
+      "position",
+      "various positions",
+      "power",
+      "DC or AC electric power",
+      "progress",
+      "propulsion",
+      "relation",
+      "transport mechanism separator",
+      "pad separator",
+      "drive shaft",
+      "side",
+      "simplicity",
+      "power source",
+      "external power source",
+      "parking space",
+      "spacing",
+      "constant spacing",
+      "desired spacing",
+      "more efficient speeds",
+      "parking spot",
+      "tire stop",
+      "controller or sub-function",
+      "low voltage DC supply",
+      "system controller",
+      "automated system",
+      "such an automated system",
+      "brake system",
+      "friction braking system",
+      "automated charging system",
+      "wireless vehicle charging system",
+      "other vehicle electrical systems",
+      "vehicle locating system",
+      "low-voltage systems",
+      "automated parking system",
+      "typical system",
+      "tire(s)",
+      "transfer",
+      "hybrid transmission",
+      "maximum power transmission",
+      "travel",
+      "underside",
+      "variety",
+      "vehicle",
+      "different vehicles",
+      "electric vehicle",
+      "pure electric vehicle",
+      "plug-in hybrid vehicle",
+      "hybrid-electric vehicle",
+      "different sized vehicles",
+      "wireless vehicle",
+      "DC voltage",
+      "proper voltage",
+      "ways",
+      "wheels",
+      "contactors"
+    ],
+    "glossary": []
+  },
+  "repository": "https://github.com/TurboPatent/hybrid_vehicle_drivetrain_and_energy_storage_components"
+}
